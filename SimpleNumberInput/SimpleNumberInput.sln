@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleNumberInput", "SimpleNumberInput\SimpleNumberInput.csproj", "{438E522F-ACB3-4041-BF66-7E3CCB4810DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{438E522F-ACB3-4041-BF66-7E3CCB4810DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438E522F-ACB3-4041-BF66-7E3CCB4810DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438E522F-ACB3-4041-BF66-7E3CCB4810DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438E522F-ACB3-4041-BF66-7E3CCB4810DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC92A449-C663-4F7C-8191-767A381DBCF7}
+	EndGlobalSection
+EndGlobal
