@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>SimpleNumberInput</id>
+    <version>0.1.0</version>
+    <title>SimpleNumberInput</title>
+    <authors>WB Li</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">Apache-2.0</license>
+    <!-- <icon>icon.png</icon> 
+    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>-->
+    <description>$description$</description>
+    <releaseNotes>Initial version.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>WPF UI</tags>
+	<dependencies>
+    <group targetFramework=".NETFramework4.5.2"/>
+	<group targetFramework=".NETFramework4.5.2"/>    
+	</dependencies>	
+  </metadata>  
+</package>
